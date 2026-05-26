@@ -1,0 +1,30 @@
+-> For publishing the file or code from our laptop to public server:
+
+1) Current directory
+2) Stagging area 
+3) Local repository 
+4) Remote repository
+
+-> Creating a Git account, downloading a desktop platform and then connecting both.
+
+-> Pushing our files to public
+
+-> Types of file pushing: Staic and Dynamic
+
+   * Static approach:
+    1) Open Github
+    2) Click on new
+    3) Repository name
+    4) Upload exisiting files
+    5) Commit changes 
+    6) Files got uploaded 
+
+-> Activity:
+
+1) Strong number 
+2) Anagram 
+3) Palindrome 
+4) Longest substring 
+5) Remove duplicates without built-in functions 
+6) One text file about git and github 
+7) Use of git?

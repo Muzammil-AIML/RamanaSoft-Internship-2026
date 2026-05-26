@@ -1,0 +1,20 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+          GIT VS GITHUB
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+
+1) WHAT IS GIT?
+-> Git is a local software tool installed on your computer.
+-> It tracks the history of changes made to your code files.
+-> It allows you to save "snapshots" (commits) of your project.
+-> It works completely offline.
+
+2) WHAT IS GITHUB?
+-> GitHub is an online cloud platform hosted on the internet.
+-> It holds a copy of your Git repositories so others can see them.
+-> It acts as a social network for developers to share code.
+-> It requires an internet connection to upload/download project code.
+
+3) THE CORE DIFFERENCE:
+-> Git is the actual tool that tracks your code history.
+-> GitHub is the online storage box where you upload that history.

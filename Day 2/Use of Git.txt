@@ -1,0 +1,13 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+         USE OF GIT
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+-> Git is a Version Control System (VCS).
+
+-> Developers use it for three main reasons:
+
+   1) Track History: It acts like a time machine for code. If a new update breaks your software, you can instantly revert back to a working version from last week.
+
+   2) Team Collaboration: Multiple people can work on the exact same file simultaneously. Git merges their changes automatically and flags conflicts if two people edit the exact same line.
+   
+   3) Safe Experimenting: Developers can create a copy of the code called a "branch" to try out new features. If the experiment fails, they can delete the branch without ruining the main project.
