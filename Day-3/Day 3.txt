@@ -1,0 +1,20 @@
+Scenario:
+-> There are two tribes who follow different religions. One is false statement giving and the other is true statement giving. 
+-> he question is a third person comes who speaks only english and asks which tribe is true to follow? 
+-> he false says that I am true and The True also says I am true, How will the 3rd person know who is true to follow?
+
+Scenario: 
+-> There are three animals on board the ship (Tiger,Sheep and Fox)
+->
+->
+
+1) Initialization: git init
+2) Add files: git add .
+3) Save files: git commit -m 'any msg'
+4) Create a branch: git branch -M branch_name(bn)
+5) Create rep: git remote add origin 
+6) Git push -u origin bn 
+
+Task: Create a html page containing your resume details using html[index],css[style],js via dynamic git commands push it into github
+
+Web deployment: 
