@@ -1,0 +1,9 @@
+-> Pull & Push: Use git pull to grab the latest updates from a remote repo and git push to send your local changes back up.
+-> README.md: The essential "front page" of your project that explains what it is and how to use it.
+-> Forking vs. Cloning: Forking creates a copy of a repo in your GitHub account. Cloning (git clone [URL]) downloads a repository to your local machine.
+-> Clarification: You actually can clone your own repositories! It's a common way to work on your projects across different computers.
+-> Multiple Repos: While the standard command clones one at a time, you can use scripts if you need to download many at once.
+
+Today task:
+1) How can I clone a Git repository without changing the current working directory? 
+2) How can I manage and clone a repository that contains multiple projects within a single Git repository?
