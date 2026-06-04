@@ -1,0 +1,12 @@
+>>>>>>>>>>>> List Methods and functions: [CIARUS 3L N] <<<<<<<<<<<
+
+1) C - Creating a list -> [], List()
+2) I - Inserting, Indexing -> Extend
+3) A - Adding -> Append
+4) R - Removing -> pop, remove, del
+5) U - Updatiing -> based on index 
+6) S - Searching -> 
+7) 3L - list comprehensions, list methods [concatination, copy ,deep copy], list functions [len, count, min, max, sum]
+8) N - nested lists 
+
+Task: Complete control statements [Iterative, Conditional, Transfer]
