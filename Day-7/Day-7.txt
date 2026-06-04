@@ -1,0 +1,8 @@
+>>>>>>>>>>>>>> PYTHON <<<<<<<<<<<<<
+
+-> What is PY? What is Python?
+-> Python2 vs Python3?
+-> Difference between string and char?
+-> Use of Method and Constructor?
+-> Why self?
+-> 
